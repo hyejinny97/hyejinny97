@@ -11,7 +11,7 @@
 
 
 ## 📬 contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yhj970102@gmail.com)](yhj970102@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yhj970102@gmail.com)](mailto:yhj970102@gmail.com)
 
 
 <!--

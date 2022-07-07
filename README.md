@@ -3,12 +3,16 @@
 
 ## Hi there 👋
 안녕하세요~ 저는 프로 개발자를 꿈꾸는 코린이입니다. 
-현재 6개월과정의 [멀티캠퍼스] 훈련을 수강하고 있고, 12월엔 멋진 개발자가 된 저를 꿈꾸며 하루하루 열심히 학습하고 있습니다!
+
+## 🚀Experience
+1. [KDT 멀티캠퍼스 실무 맞춤형 풀스택 개발](https://www.multicampus.com/system/menu/iframe?p_url=aHR0cHM6Ly9lbC5tdWx0aWNhbXB1cy5jb20vZGVfY29tbW9uL211bGNhbS9ldmVudC8yMDIyLzA0LzA0MjVfMS8wNDI1XzEuaHRtbCM=&htmlHghtPixelSize=9999&p_menu=NDcxI01BSU4=&p_gubun=Qw==) `교육중`
+    - 학습 기간: 2022.07.04 ~ 2022.12.16 (115일, 980시간)
+    - 과정 소개: 풀스택 웹 개발자에게 필요한 프로그래밍 언어 활용 역량과 프론트엔드/백엔드 SW 개발 기술을 습득할 수 있는 과정
 
 ## 📈 status
+[![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=hyejinny97)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhj970102)](https://solved.ac/yhj970102/)
-[![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=hyejinny97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📬 contact

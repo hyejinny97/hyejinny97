@@ -8,6 +8,7 @@
 ## 📈 status
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhj970102)](https://solved.ac/yhj970102/)
+[![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=hyejinny97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📬 contact
